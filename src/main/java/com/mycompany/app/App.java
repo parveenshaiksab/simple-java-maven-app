@@ -12,6 +12,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println(MESSAGE);
         system.out.println("hello");
+        system.out.println("hello world");
     }
 
     public String getMessage() {
